@@ -50,16 +50,16 @@ It was able to correctly predict new images during testing with high confidence 
 ## 📸 Screenshots
 
 ### 🔹 Project Setup
-(Add screenshot here)
+![Project Setup](screenshots/project-setup.png)
 
 ### 🔹 Image Upload & Tagging
-(Add screenshot here)
+![Image Upload](screenshots/image-upload.png)
 
 ### 🔹 Training Results
-(Add screenshot here)
+![Training Result](screenshots/training-result.png)
 
 ### 🔹 Testing Results
-(Add screenshot here)
+![Test Result](screenshots/test-result.png)
 
 ---
 
