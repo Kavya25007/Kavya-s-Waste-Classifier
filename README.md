@@ -4,26 +4,27 @@
 ## 📌 Overview
 This project demonstrates how to build an AI-based image classification model using Azure Custom Vision to classify waste into two categories: **Recyclable** and **Non-Recyclable**.
 
+---
+
 ## 🎯 Objective
 To develop a machine learning model that can automatically identify and classify waste images, helping in efficient waste management and environmental sustainability.
 
 ---
 
 ## 🛠️ Tools & Technologies Used
-- Microsoft Azure
-- Azure Custom Vision
-- Image Dataset (Recyclable & Non-Recyclable Waste)
-- Web-based Custom Vision Studio
+- Microsoft Azure  
+- Azure Custom Vision  
+- Image Dataset (Recyclable & Non-Recyclable Waste)  
+- Custom Vision Studio  
 
 ---
 
 ## ⚙️ Project Workflow
-
 1. Created a Custom Vision resource in Azure Portal  
 2. Opened Custom Vision Studio  
 3. Created a new Classification Project  
 4. Uploaded images for:
-   - Recyclable waste
+   - Recyclable waste  
    - Non-Recyclable waste  
 5. Tagged images accordingly  
 6. Trained the model using Quick Training  
@@ -36,7 +37,7 @@ To develop a machine learning model that can automatically identify and classify
 - **Project Type:** Classification  
 - **Classification Type:** Multiclass (Single tag per image)  
 - **Categories:**
-  - Recyclable
+  - Recyclable  
   - Non-Recyclable  
 
 ---
@@ -63,16 +64,21 @@ It was able to correctly predict new images during testing with high confidence 
 
 ---
 
+## 📂 Sample Images
+
+### ♻️ Recyclable
+![Recyclable](images/recyclable/img1.jpg)
+
+### 🚫 Non-Recyclable
+![Non-Recyclable](images/non-recyclable/img1.jpg)
+
+---
+
 ## 🌍 Applications
 - Smart waste management systems  
 - Automated garbage segregation  
 - Recycling plants  
 - Environmental monitoring  
-
----
-
-## 🚀 Conclusion
-This project shows how AI can be used to automate waste classification and improve recycling efficiency. Azure Custom Vision makes it easy to build and deploy such intelligent systems without deep technical knowledge.
 
 ---
 
@@ -84,5 +90,15 @@ This project shows how AI can be used to automate waste classification and impro
 
 ---
 
+## 🚀 Conclusion
+This project shows how AI can be used to automate waste classification and improve recycling efficiency. Azure Custom Vision makes it easy to build and deploy such intelligent systems without deep technical knowledge.
+
+---
+
+## 📑 Project Report
+[View Full Report](project-report.pdf)
+
+---
+
 ## 🙌 Author
-Kavya Kushwaha
+**Kavya Kushwaha**
