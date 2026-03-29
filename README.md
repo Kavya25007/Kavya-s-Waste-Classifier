@@ -67,10 +67,10 @@ It was able to correctly predict new images during testing with high confidence 
 ## 📂 Sample Images
 
 ### ♻️ Recyclable
-![Recyclable](images/recyclable/img1.jpg)
+![Recyclable](Screenshot_29-3-2026_171748_www.bing.com.jpg)
 
 ### 🚫 Non-Recyclable
-![Non-Recyclable](images/non-recyclable/img1.jpg)
+![Non-Recyclable](Screenshot_29-3-2026_165341_www.bing.com.jpg)
 
 ---
 
