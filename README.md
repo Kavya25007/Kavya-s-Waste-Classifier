@@ -1,4 +1,4 @@
-#♻️Kavya-s-Waste-Classifier
+# ♻️Kavya-s-Waste-Classifier
 # Waste Classification using Azure Custom Vision
 
 ## 📌 Overview
