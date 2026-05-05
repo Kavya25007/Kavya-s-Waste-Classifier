@@ -29,8 +29,8 @@ To develop a machine learning model that can automatically identify and classify
 5. Tagged images accordingly  
 6. Trained the model using Quick Training  
 7. Tested the model using new images  
-8. Evaluated model performance using accuracy metrics  
-
+8. Evaluated model performance using accuracy metrics
+   
 ---
 
 ## 🧠 Model Details
